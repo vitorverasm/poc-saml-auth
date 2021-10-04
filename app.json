@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "poc-saml",
+    "slug": "poc-saml",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "poc-saml"
+}
