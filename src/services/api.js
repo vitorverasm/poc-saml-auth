@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const hostname = "https://9d97-2804-7f7-e285-997c-9dc0-dad9-594a-ddd2.ngrok.io";
+const hostname = "<hostname-url>";
 
 export const getAuthMethods = async () => {
   try {
